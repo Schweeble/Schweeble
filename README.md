@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Schweeble
 - 👀 I’m interested in CV and computer graphics
 - 🌱 I’m currently learning Rust, Wasm, and WebGPU
-- 💞️ I’m looking to collaborate on Rust CV projects
+- 💞️ I’m looking to collaborate on Rust projects
 - 📫 How to reach me ... schweebledev@gmail.com
 
 <!---
